@@ -1,1 +1,1 @@
-bu bir python koduyla yazian sayi tahmin oyunudur.
+Bu python koduyla yazilan bir sayi tahmin oyunudur.
