@@ -1,1 +1,1 @@
-# git-4
+bu bir python koduyla yazian sayi tahmin oyunudur.
